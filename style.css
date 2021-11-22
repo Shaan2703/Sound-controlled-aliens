@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    font-family: 'Irish Grover', cursive;
+}
+
+.header_div {
+    background-color: white;
+    color: red;
+
+}
+.header_div p {
+    color: blue;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+.main_div button {
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.div_right_footer {
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+    font-size: 30px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+}
+
+#result_label,#result_confidence {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
